@@ -17,6 +17,7 @@
 		66C8D3E62AB7565D005DFE49 /* ShoppingNotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C8D3E52AB7565D005DFE49 /* ShoppingNotTests.swift */; };
 		66C8D3F02AB7565D005DFE49 /* ShoppingNotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C8D3EF2AB7565D005DFE49 /* ShoppingNotUITests.swift */; };
 		66C8D3F22AB7565D005DFE49 /* ShoppingNotUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C8D3F12AB7565D005DFE49 /* ShoppingNotUITestsLaunchTests.swift */; };
+		66C8D3FF2AB76135005DFE49 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C8D3FE2AB76135005DFE49 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		66C8D3EB2AB7565D005DFE49 /* ShoppingNotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShoppingNotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66C8D3EF2AB7565D005DFE49 /* ShoppingNotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingNotUITests.swift; sourceTree = "<group>"; };
 		66C8D3F12AB7565D005DFE49 /* ShoppingNotUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingNotUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		66C8D3FE2AB76135005DFE49 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				66C8D3CD2AB7565C005DFE49 /* SceneDelegate.swift */,
 				66C8D3CF2AB7565C005DFE49 /* ViewController.swift */,
 				66C8D3D12AB7565C005DFE49 /* Main.storyboard */,
+				66C8D3FE2AB76135005DFE49 /* DetailsViewController.swift */,
 				66C8D3D72AB7565D005DFE49 /* Assets.xcassets */,
 				66C8D3D92AB7565D005DFE49 /* LaunchScreen.storyboard */,
 				66C8D3DC2AB7565D005DFE49 /* Info.plist */,
@@ -265,6 +268,7 @@
 				66C8D3D62AB7565C005DFE49 /* ShoppingNot.xcdatamodeld in Sources */,
 				66C8D3CC2AB7565C005DFE49 /* AppDelegate.swift in Sources */,
 				66C8D3CE2AB7565C005DFE49 /* SceneDelegate.swift in Sources */,
+				66C8D3FF2AB76135005DFE49 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
